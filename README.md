@@ -20,3 +20,7 @@
 
 📫 Connect with me:[Telegram](https://t.me/javohir_ergashev30)
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/muhammad-abdulloh/count.svg" />
+</p>
