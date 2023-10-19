@@ -15,6 +15,7 @@
 - 💻 My programming languages : `C#`, `Python`, `C`
 - ⚔️ Technogies and tools : `.Net`, `xUnit`, `Git`,
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javohirtohirovich" alt="javohirtohirovich" /></a> </p>
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=javohirtohirovich&show_icons=true&theme=dark)
 
