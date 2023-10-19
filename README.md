@@ -17,12 +17,9 @@
 
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=javohirtohirovich&show_icons=true&theme=dark)
-<div>
-  📫 Connect with me:[Telegram](https://t.me/javohir_ergashev30)
-</div>
-<div>
+
+ 📫 Connect with me:[Telegram](https://t.me/javohir_ergashev30)
  📫 Connect with me:[LinkedIn](https://www.linkedin.com/in/javohir-erg/) 
-</div>
 
 
 
