@@ -11,9 +11,9 @@
 #### BIO
 
 
-- ⚙️ My specialty : `.Net`, `Asp.net Core`, 
-- 💻 My programming languages : `C#`, `Python`, `C`
-- ⚔️ Technogies and tools : `.Net`, `xUnit`, `Git`,
+- ⚙️ My specialty : `.Net`, `Asp.net Core`, `Angular`
+- 💻 My programming languages : `C#`,`JavaScript`,`TypeScript`
+- ⚔️ Technogies and tools : `xUnit`, `Git`,`Docker`
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javohirtohirovich" alt="javohirtohirovich" /></a> </p>
 
