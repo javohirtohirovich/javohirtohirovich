@@ -18,7 +18,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=javohirtohirovich" alt="javohirtohirovich" /></a> </p>
 
  ![Github stats](https://github-readme-stats.vercel.app/api?username=javohirtohirovich&show_icons=true&theme=dark)
- - 📫 Connect with me:[Email](javoergashev@gmail.com),
+ - 📫 Connect with me:javoergashev@gmail.com,
  - 📫 Connect with me:[Telegram](https://t.me/javohir_ergashev30),
  - 📫 Connect with me:[LinkedIn](https://www.linkedin.com/in/javohir-erg/) 
 
